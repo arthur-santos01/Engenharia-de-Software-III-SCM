@@ -1,6 +1,6 @@
-# Engenharia-de-Software-III-SCM
+# Engenharia-de-Software-III-SCM.
 ---
-## Introdução ao gerenciamento de código fonte
+## Introdução ao gerenciamento de código fonte.
 ---
 ### Primeiros passos:
 
